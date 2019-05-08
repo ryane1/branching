@@ -6,3 +6,6 @@ function displayDogName(event) {
     let dogname = document.querySelector("#dogname").value;
     document.body.append(dogname);
 }
+
+
+// Git a Dog
